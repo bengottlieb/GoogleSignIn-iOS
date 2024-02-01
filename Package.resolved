@@ -1,0 +1,61 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AppAuth",
+        "repositoryURL": "https://github.com/bengottlieb/AppAuth-iOS.git",
+        "state": {
+          "branch": null,
+          "revision": "3a0b73bfdb50322fcdd0ab6f09371b5f470c9035",
+          "version": null
+        }
+      },
+      {
+        "package": "GoogleUtilities",
+        "repositoryURL": "https://github.com/google/GoogleUtilities.git",
+        "state": {
+          "branch": null,
+          "revision": "bc27fad73504f3d4af235de451f02ee22586ebd3",
+          "version": "7.12.1"
+        }
+      },
+      {
+        "package": "GTMSessionFetcher",
+        "repositoryURL": "https://github.com/bengottlieb/gtm-session-fetcher.git",
+        "state": {
+          "branch": null,
+          "revision": "78e5fa98645c228c2b1de9c092cb5c0ae7dc8bc5",
+          "version": null
+        }
+      },
+      {
+        "package": "GTMAppAuth",
+        "repositoryURL": "https://github.com/google/GTMAppAuth.git",
+        "state": {
+          "branch": null,
+          "revision": "41aba100f28395ebe842cd66e5d371cdd46c6792",
+          "version": "4.0.0"
+        }
+      },
+      {
+        "package": "OCMock",
+        "repositoryURL": "https://github.com/firebase/ocmock.git",
+        "state": {
+          "branch": null,
+          "revision": "7291762d3551c5c7e31c49cce40a0e391a52e889",
+          "version": null
+        }
+      },
+      {
+        "package": "Promises",
+        "repositoryURL": "https://github.com/google/promises.git",
+        "state": {
+          "branch": null,
+          "revision": "e70e889c0196c76d22759eb50d6a0270ca9f1d9e",
+          "version": "2.3.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

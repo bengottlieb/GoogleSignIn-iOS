@@ -43,16 +43,16 @@ let package = Package(
   dependencies: [
     .package(
       name: "AppAuth",
-      url: "https://github.com/openid/AppAuth-iOS.git",
-      "1.6.0" ..< "2.0.0"),
+      url: "https://github.com/bengottlieb/AppAuth-iOS.git",
+		.revision("3a0b73bfdb50322fcdd0ab6f09371b5f470c9035")),
     .package(
       name: "GTMAppAuth",
       url: "https://github.com/google/GTMAppAuth.git",
       from: "4.0.0"),
     .package(
       name: "GTMSessionFetcher",
-      url: "https://github.com/google/gtm-session-fetcher.git",
-      "1.5.0" ..< "4.0.0"),
+      url: "https://github.com/bengottlieb/gtm-session-fetcher.git",
+		.revision("78e5fa98645c228c2b1de9c092cb5c0ae7dc8bc5")),
     .package(
       name: "OCMock",
       url: "https://github.com/firebase/ocmock.git",
