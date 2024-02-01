@@ -6,17 +6,17 @@
         "repositoryURL": "https://github.com/bengottlieb/AppAuth-iOS.git",
         "state": {
           "branch": null,
-          "revision": "3a0b73bfdb50322fcdd0ab6f09371b5f470c9035",
-          "version": null
+          "revision": "e4f9873e76c1ae9ed6dad58b5295e9bd1f596c9e",
+          "version": "0.9.2"
         }
       },
       {
         "package": "GoogleUtilities",
-        "repositoryURL": "https://github.com/google/GoogleUtilities.git",
+        "repositoryURL": "https://github.com/bengottlieb/GoogleUtilities.git",
         "state": {
           "branch": null,
-          "revision": "bc27fad73504f3d4af235de451f02ee22586ebd3",
-          "version": "7.12.1"
+          "revision": "84b6bfe65b9102ef33e7748800b62239186e17cb",
+          "version": "0.9.0"
         }
       },
       {
@@ -25,16 +25,16 @@
         "state": {
           "branch": null,
           "revision": "78e5fa98645c228c2b1de9c092cb5c0ae7dc8bc5",
-          "version": null
+          "version": "0.9.0"
         }
       },
       {
         "package": "GTMAppAuth",
-        "repositoryURL": "https://github.com/google/GTMAppAuth.git",
+        "repositoryURL": "https://github.com/bengottlieb/GTMAppAuth.git",
         "state": {
           "branch": null,
-          "revision": "41aba100f28395ebe842cd66e5d371cdd46c6792",
-          "version": "4.0.0"
+          "revision": "f7bbb63f3d0b75fe8eb4f890999d88f7700f2e7c",
+          "version": "0.9.2"
         }
       },
       {
